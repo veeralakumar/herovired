@@ -115,3 +115,7 @@ git push origin main
 
 **App Command Execution output:**
 ![App running](screenshots/execution_output.png)
+
+**Full endpoint test run (all commands and outputs):**
+See [`TERMINAL_SESSION_LOG.md`](TERMINAL_SESSION_LOG.md) for the complete
+add → get → delete → 404 test sequence, including error-path responses.
