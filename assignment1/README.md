@@ -110,14 +110,5 @@ git push origin main
 ```
 
 ## Screenshots
-> Replace these with your actual screenshots before submitting — the
-> assignment requires them embedded directly in this file.
-
 **App running in browser:**
-`![App running](screenshots/app-running.png)`
-
-**GitHub repo showing dev and main branches:**
-`![Branches](screenshots/branches.png)`
-
-**Commit/merge history for V1 and V2:**
-`![Commit history](screenshots/commit-history.png)`
+![App running](screenshots/app-running.png)
