@@ -114,4 +114,4 @@ git push origin main
 ![App running](screenshots/app-running.png)
 
 **App Command Execution output:**
-![App running](screenshots/app-running.png)
+![App running](screenshots/execution_output.png)
