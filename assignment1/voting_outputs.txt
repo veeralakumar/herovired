@@ -1,0 +1,77 @@
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/veera
+{
+  "current_count": 1,
+  "message": "Vote recorded for 'veera'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/veera
+{
+  "current_count": 2,
+  "message": "Vote recorded for 'veera'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/veera
+{
+  "current_count": 3,
+  "message": "Vote recorded for 'veera'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/veera
+{
+  "current_count": 4,
+  "message": "Vote recorded for 'veera'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/veera
+{
+  "current_count": 5,
+  "message": "Vote recorded for 'veera'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 1,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 2,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 3,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 4,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 5,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 6,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 7,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 8,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/vote/kalam
+{
+  "current_count": 9,
+  "message": "Vote recorded for 'kalam'"
+}
+veera@chennix:~/herovired/herovired/assignment1$ curl http://localhost:5002/results
+{
+  "kalam": 9,
+  "veera": 5
+}
+veera@chennix:~/herovired/herovired/assignment1$ 
+
