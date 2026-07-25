@@ -98,6 +98,8 @@ Press CTRL+C to quit
 127.0.0.1 - - [25/Jul/2026 09:43:06] "DELETE /delete/veera HTTP/1.1" 200 -
 127.0.0.1 - - [25/Jul/2026 09:43:10] "GET /get/veera HTTP/1.1" 404 -
 
+## Open another terminal add run the following commands ##
+
 $ curl -X POST http://localhost:5000/add -H "Content-Type: application/json" -d '{"username":"veera","password":"secret123"}' && echo
 {
 "message": "User 'veera' added successfully"
