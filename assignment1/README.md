@@ -110,5 +110,5 @@ git push origin main
 ```
 
 ## Screenshots
-**App running in status:**
+**App running in terminal status:**
 ![App running](screenshots/app-running.png)
